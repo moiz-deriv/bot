@@ -117,7 +117,7 @@
 
         // Shadow
         --shadow-menu: #{constants.$alpha-color-black-4};
-        --shadow-menu-2: #{constants.$alpha-color-black-4};
+        --shadow-menu-2: #{constants.$alpha-color-black-3};
         --shadow-drop: #{constants.$alpha-color-black-3};
         --shadow-box: #{constants.$COLOR_LIGHT_BLACK_2};
 
@@ -261,8 +261,8 @@
         --overlay-inside-dialog: #{constants.$alpha-color-black-2};
 
         // Shadow
-        --shadow-menu: #{constants.$alpha-color-black-5};
-        --shadow-menu-2: #{constants.$alpha-color-black-1};
+        --shadow-menu: #{constants.$alpha-color-black-2};
+        --shadow-menu-2: #{constants.$alpha-color-black-3};
         --shadow-drop: #{constants.$alpha-color-black-6};
         --shadow-box: #{constants.$COLOR_DARK_GRAY_3};
 
